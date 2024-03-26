@@ -4,6 +4,8 @@ I'm a high school student who loves to code and learn all about computers.
 
 ## Skills
 - Python
+- HTML
+- CSS
 
 ## Python Libraries/Packages
 - Matplotlib
