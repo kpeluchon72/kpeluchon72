@@ -23,9 +23,11 @@ I'm a high school student who loves to code and learn all about computers.
 - [Replica of Conway's Game of Life](https://github.com/kpeluchon72/Cylindrical-Conways-Game-of-Life): Cellular automaton with 2 states and 3 rules.
   - Pygame, Sys.
 - [Weather App](https://github.com/kpeluchon72/Weather-App): Retrieves meteorological data for a specific location, ranging from temperature to air quality to precipitation.
-  - Matplotlib, Streamlit, Pandas.
+  - Matplotlib, Streamlit, Pandas, Requests.
 - [Financial Analysis Dashboard](https://github.com/kpeluchon72/Financial-Analysis-Dashboard): Displays historical stock data for a specific ticker symbol and predicts future forecast.
-  - yfinance, Streamlit, Plotly, Facebook Prophet. 
+  - yfinance, Streamlit, Plotly, Facebook Prophet.
+-[Celestial Object Information App](https://github.com/kpeluchon72/Celestial-Object-Info-App): Retrieves information about celestial objects ranging from mass to eccentricity to temperature.
+  - Tkinter, Requests.
 
 ## Current Focus
 - Learning JavaScript
