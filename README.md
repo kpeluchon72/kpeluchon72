@@ -34,7 +34,5 @@ I'm a high school student who loves to code and learn all about computers.
 - Improving Python Skills
 - Advancing Data Structure Knowledge
 
-[![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen)](https://your-link-to-code-quality-report)
-
 ## Contact Information
 - Email: [kev.pdgl71@gmail.com](mailto:kev.pdgl71@gmail.com)
