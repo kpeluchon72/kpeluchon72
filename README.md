@@ -6,6 +6,7 @@ I'm a high school student who loves to code and learn all about computers.
 - Python
 - HTML
 - CSS
+- SQL
 
 ## Python Libraries/Packages
 - Matplotlib
