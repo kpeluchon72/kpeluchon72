@@ -1,6 +1,6 @@
 # Hello, I'm Kevin Peluchon 👋
 
-I'm a high school student who loves to code and learn all about computers.
+I'm a high school student who loves to code and all about computers.
 
 ## Skills
 - Python
