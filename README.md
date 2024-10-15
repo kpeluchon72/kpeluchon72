@@ -17,8 +17,8 @@ I'm a high school student who loves to code and learn all about computers.
 
 ## Interests
 - Machine Learning
-- Cellular Automata
 - App Development
+- Robotics
 
 ## Projects
 - [Replica of Conway's Game of Life](https://github.com/kpeluchon72/Cylindrical-Conways-Game-of-Life): Cellular automaton with 2 states and 3 rules.
