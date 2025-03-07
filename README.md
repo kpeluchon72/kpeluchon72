@@ -1,12 +1,10 @@
-# Hello, I'm Kevin Peluchon 👋
+# 👋 Hey there! I'm Kevin Peluchon
 
-I'm a high school student who loves to code and all about computers.
+A high school student passionate about coding, problem-solving, and building cool projects. I enjoy exploring **machine learning, robotics, and app development**, and I'm always looking for ways to push my coding skills further!
 
 ## Skills
-- Python
-- HTML
-- CSS
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Python Libraries/Packages
 - Matplotlib
@@ -21,19 +19,23 @@ I'm a high school student who loves to code and all about computers.
 - Robotics
 
 ## Projects
-- [Replica of Conway's Game of Life](https://github.com/kpeluchon72/Cylindrical-Conways-Game-of-Life): Cellular automaton with 2 states and 3 rules.
+
+- [Replica of Conway's Game of Life](https://github.com/kpeluchon72/Cylindrical-Conways-Game-of-Life): Cellular automaton with 2 states and 3 rules.  
   - Pygame, Sys.
-- [Weather App](https://github.com/kpeluchon72/Weather-App): Retrieves meteorological data for a specific location, ranging from temperature to air quality to precipitation.
+
+- [Weather App](https://github.com/kpeluchon72/Weather-App): Retrieves meteorological data for a specific location, ranging from temperature to air quality to precipitation.  
   - Matplotlib, Streamlit, Pandas, Requests.
-- [Financial Analysis Dashboard](https://github.com/kpeluchon72/Financial-Analysis-Dashboard): Displays historical stock data for a specific ticker symbol and predicts future forecast.
+
+- [Financial Analysis Dashboard](https://github.com/kpeluchon72/Financial-Analysis-Dashboard): Displays historical stock data for a specific ticker symbol and predicts future forecast.  
   - yfinance, Streamlit, Plotly, Facebook Prophet.
-- [Celestial Object Information App](https://github.com/kpeluchon72/Celestial-Object-Info-App): Retrieves information about celestial objects ranging from mass to eccentricity to orbit.
+
+- [Celestial Object Information App](https://github.com/kpeluchon72/Celestial-Object-Info-App): Retrieves information about celestial objects ranging from mass to eccentricity to orbit.  
   - Tkinter, Requests.
 
 ## Current Focus
-- Learning JavaScript
-- Improving Python Skills
-- Advancing Data Structure Knowledge
+🔹 Diving into **JavaScript & Web Development**  
+🔹 Mastering **Python for AI & Data Science**  
+🔹 Building **Robotics & Embedded Systems**
 
-## Contact Information
-- Email: [kev.pdgl71@gmail.com](mailto:kev.pdgl71@gmail.com)
+## Let's Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kev.pdlg71@gmail.com)
