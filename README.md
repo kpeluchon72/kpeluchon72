@@ -32,6 +32,10 @@ A high school student passionate about coding, problem-solving, and building coo
 - [Celestial Object Information App](https://github.com/kpeluchon72/Celestial-Object-Info-App): Retrieves information about celestial objects ranging from mass to eccentricity to orbit.  
   - Tkinter, Requests.
 
+- [3D Satellite Tracker](https://github.com/kpeluchon72/3DSatellite): Uses TLE data to plot the position of Satellites in a 3D environment while predicting and updating 10,000 satellite paths.
+  - Satellite.js, CelesTrak data, Three.js
+
+
 ## Current Focus
 🔹 Diving into **JavaScript & Web Development**  
 🔹 Mastering **Python for AI & Data Science**  
