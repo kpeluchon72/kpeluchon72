@@ -26,9 +26,6 @@ A high school student passionate about coding, problem-solving, and building coo
 - [Weather App](https://github.com/kpeluchon72/Weather-App): Retrieves meteorological data for a specific location, ranging from temperature to air quality to precipitation.  
   - Matplotlib, Streamlit, Pandas, Requests.
 
-- [Financial Analysis Dashboard](https://github.com/kpeluchon72/Financial-Analysis-Dashboard): Displays historical stock data for a specific ticker symbol and predicts future forecast.  
-  - yfinance, Streamlit, Plotly, Facebook Prophet.
-
 - [Celestial Object Information App](https://github.com/kpeluchon72/Celestial-Object-Info-App): Retrieves information about celestial objects ranging from mass to eccentricity to orbit.  
   - Tkinter, Requests.
 
