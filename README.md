@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Kevin Peluchon
 
-A high school student passionate about coding, problem-solving, and building cool projects. I enjoy exploring **machine learning, robotics, and app development**, and I'm always looking for ways to push my coding skills further!
+An incoming unversity student passionate about coding, problem-solving, and building cool projects. I enjoy exploring **machine learning, robotics, and app development**, and I'm always looking for ways to push my coding skills further!
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,10 +33,6 @@ A high school student passionate about coding, problem-solving, and building coo
   - Satellite.js, CelesTrak data, Three.js
 
 
-## Current Focus
-🔹 Diving into **JavaScript & Web Development**  
-🔹 Mastering **Python for AI & Data Science**  
-🔹 Building **Robotics & Embedded Systems**
 
 ## Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kev.pdlg71@gmail.com)
