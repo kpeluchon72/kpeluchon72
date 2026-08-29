@@ -4,7 +4,7 @@ An incoming unversity student passionate about coding, problem-solving, and buil
 
 ## Projects
 
-- [6-DOF Electromagnetic Control RL Agent](https://github.com/kpeluchon72/6-DOF-Electromagnetic-Control-RL-Agent): A RL agent that is trained to control 6 electromagnets that provide appropriate forces to position a magnetic dipole in space using PPO.
+- [6-DOF Electromagnetic Control RL Agent](https://github.com/kpeluchon72/6-DOF-Electromagnetic-Control-RL-Agent-): A RL agent that is trained to control 6 electromagnets that provide appropriate forces to position a magnetic dipole in space using PPO.
 
 - [ATX Computer Power Supply to Lab Bench Power Supply]
 
