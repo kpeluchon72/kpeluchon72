@@ -4,17 +4,14 @@ An incoming unversity student passionate about coding, problem-solving, and buil
 
 ## Projects
 
-- [Replica of Conway's Game of Life](https://github.com/kpeluchon72/Cylindrical-Conways-Game-of-Life): Cellular automaton with 2 states and 3 rules.  
-  - Pygame, Sys.
-
-- [Weather App](https://github.com/kpeluchon72/Weather-App): Retrieves meteorological data for a specific location, ranging from temperature to air quality to precipitation.  
-  - Matplotlib, Streamlit, Pandas, Requests.
-
-- [Celestial Object Information App](https://github.com/kpeluchon72/Celestial-Object-Info-App): Retrieves information about celestial objects ranging from mass to eccentricity to orbit.  
-  - Tkinter, Requests.
+- 
 
 - [3D Satellite Tracker](https://github.com/kpeluchon72/Satelite3D): Uses TLE data to plot the position of Satellites in a 3D environment while predicting and updating 10,000 satellite paths.
   - Satellite.js, CelesTrak data, Three.js
+  - 
+- [Replica of Conway's Game of Life](https://github.com/kpeluchon72/Cylindrical-Conways-Game-of-Life): Cellular automaton with 2 states and 3 rules.  
+
+
 
 
 
